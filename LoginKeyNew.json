@@ -1,34 +1,120 @@
 {
-  "dialog_enable": true,
-  "online_enable": true,
-
-  "title": "Premium Login",
-  "descriptions": [
-    "Welcome to Premium Access.",
-    "Masukkan Passwordmu Untuk Dapat Melanjutkan.",
-    "Pastikan ID mu Sudah Didaftarkan Ke Admin."
-  ],
-
-  "button_login": "Login",
-  "button_admin": "Admin",
-  "button_copy": "Copy ID",
-  "admin_url": "https://google.com",
-
-  "device_section": [
+  "Maintenance": false,
+  "ForceUpdate": false,
+  "LatestVersion": "3.0",
+  "UpdateUrl": "isi link update disini",
+  "TrialMode": false,
+  "TrialExpiry": "31/12/2026 11:59 PM",
+  "AdminUrl": "isi link update disini",
+  "Marquee": "",
+  "Users": [
     {
-      "device_id": "61889c57df59ff5d",
-      "password": "BeriSebakal",
-      "expire_date": "2025-12-31"
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
     },
     {
-      "device_id": "abcdef9876543210",
-      "password": "3344",
-      "expire_date": "2026-01-15"
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
     },
     {
-      "device_id": "offline-device",
-      "password": "1234",
-      "expire_date": "2026-01-01"
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "kosong",
+      "ID": "kosong",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "BANNED_USER",
+      "ID": "banned_device_id_example",
+      "Expiry": "",
+      "Banned": true
     }
   ]
 }
